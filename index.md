@@ -10,14 +10,14 @@ When you're playing a game within the SimpleDungeon framework, it's important to
 
 Like many other role-playing game frameworks, SimpleDungeon games are played at a tabletop with three or more players. One of the players is the *Game Master*, and the rest are *player characters*. The Game Master is responsible for introducing the session and telling the other players what happens in the game world as the game progresses. The player characters, on the other hand, each role-play their own personal avatar and narrate their actions in the game world.
 
-> Looking for something different? Try a session with Game Masters working together, or go one-on-one with a friend! With a little creativity, anything is possible.
+> Looking for something different? Try a session with two Game Masters working together, or go one-on-one with a friend! With a little creativity, anything is possible.
 
 ## Creating a Character
 
-Creating a character, whether it's a player character's avatar or a Game Master's villain, is as easy as anything else in SimpleDungeon. The first step, and the most important, is to define the character's motives, personality, and background. These decisions will inform the rest of the character creation process as well as how you role-play them in a game. Here are some helpful questions you can ask yourself when creating a character:
+Creating a character, whether it's a player character's avatar or a Game Master's villain, is as easy as anything else in SimpleDungeon. The first and most important step is to define the character's motives, personality, and background. These decisions will inform the rest of the character as well as how you role-play them in a game. Here are some helpful questions you can ask yourself when creating a character:
 
 - What does your character want? Are their long-term and short-term goals the same, or are they different?
-- What is your character's life like? What do they do every day?
+- How does your character live? What do they do every day?
 - Who did your character used to be? What's their background, and how did that shape their personality?
 - What material possessions does your character have? Is your character wealthy? Do they carry trinkets of sentimental value?
 - Does your character have any living friends or relations? If so, does your character still speak with them? How have they influenced your character's ideals?
@@ -26,4 +26,4 @@ Creating a character, whether it's a player character's avatar or a Game Master'
 
 Strong answers to these questions will keep your character grounded throughout the game and will make it easier for you to improvise. When you find yourself at a loss for words, come back to these questions to find your footing.
 
-> Not feeling it with these questions? There are many ways to create a character, and you can do it however you like. What's important in the end is that you feel comfortable role-playing your character and that you understand them well enough to improvise.
+> Not feeling it with these prompts? There are many ways to create a character, and you can do it however you like. What's important in the end is that you feel comfortable role-playing your character and that you understand them well enough to improvise.
