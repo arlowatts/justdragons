@@ -31,15 +31,25 @@ Strong answers to these questions will keep your character grounded throughout t
 
 ## Mechanics of a Character
 
-During the game, your character's physical and mental characteristics are quantified as statistics. A **statistic** is a number that represents a character's capability in a certain area. In SimpleDungeon, each character has six statistics:
+Now that you've developed the personality and background of your character, it's time to give them some numbers.
+
+### Statistics
+
+A character's physical and mental attributes are quantified as statistics. A **statistic** is a number that represents a character's capability in a certain area. In SimpleDungeon, each character has six statistics:
 
 - **Strength** represents your character's physical strength. It helps you hit things, carry things, throw things, and lift things.
 - **Dexterity** is your character's agility. A high dexterity score will help your character walk quietly, dodge attacks, and walk on narrow ledges without falling.
 - **Constitution** represents how tough your character is. High constitution allows your character to take more hits before dying, hold their breath for longer, and run farther before getting tired.
-- **Creativity** represents your character's ability to create. A high creativity score will help your character reach conclusions more quickly, cast spells, and come up with ideas.
+- **Creativity** represents your character's ability to invent. A high creativity score will help your character reach conclusions more quickly, cast spells, and come up with ideas.
 - **Sensitivity** covers intuition, insight, and your ability to see and hear. Sensitivity is needed to notice subtle clues, such as a slip of the tongue or a marking on a wall.
 - **Charisma** represents your character's talent for social interaction. With a high charisma score you can more easily persuade, intimidate, deceive, and perform.
 
-Each statistic is assigned a value between 1 and 6. To choose the value for each statistic, simply rank them - your best statistic gets a value of 6 and your worst a value of 1, with your other statistics in between. A higher number is always better, so choose your ordering carefully!
+Each statistic is assigned a value between 1 and 6. To choose the value for each statistic, simply rank them! Your best statistic is 6, your second best is 5, and so on to your worst which is 1. A higher number is always better, so choose your ordering carefully!
 
-You can also choose five skills for your character. A **skill** is a special ability of a character not described by their statistics. It's usually described as a single action, such as "climbing trees" or "drawing maps". During the game, you can use your character's skills to gain a bonus when doing things they apply to. For example, a character skilled in "imitating voices" might be able to mimic bird calls too. If possible, draw your character's skills from their backstory. Get creative!
+### Skills
+
+Each character has five skills. A **skill** is a special ability of a character not described by their statistics. It's usually described as a single action, such as "climbing trees" or "drawing maps". During the game, you can use your character's skills to gain a bonus when doing things they apply to. For example, a character skilled in "imitating voices" might be able to mimic bird calls too. If possible, draw your character's skills from their backstory. Get creative!
+
+### Hit Points
+
+Depending on how your game goes, your character (or their enemies) may get hurt. A character's vitality is measured by the number of **hit points** they have remaining, ranging between 0 and their constitution score. An effect that heals a character cannot increase their hit points past their constitution score, and an effect that harms them cannot drop their hit points below 0. If you find yourself with only a few hit points remaining, you should be careful - if you lose them all, you'll die!
