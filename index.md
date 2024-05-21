@@ -35,7 +35,7 @@ Now that you've developed the personality and background of your character, it's
 
 ### Statistics
 
-A character's physical and mental attributes are quantified as statistics. A **statistic** is a number that represents a character's capability in a certain area. In SimpleDungeon, each character has six statistics:
+A character's physical and mental attributes are quantified as statistics. A **statistic** is a number that represents a character's capability in a certain area. Each character has six statistics:
 
 - **Strength** represents your character's physical strength. It helps you hit things, carry things, throw things, and lift things.
 - **Dexterity** is your character's agility. A high dexterity score will help your character walk quietly, dodge attacks, and walk on narrow ledges without falling.
@@ -53,3 +53,17 @@ Each character has five skills. A **skill** is a special ability of a character 
 ### Hit Points
 
 Depending on how your game goes, your character (or their enemies) may get hurt. A character's vitality is measured by the number of **hit points** they have remaining, ranging between 0 and their constitution score. An effect that heals a character cannot increase their hit points past their constitution score, and an effect that harms them cannot drop their hit points below 0. If you find yourself with only a few hit points remaining, you should be careful - if you lose them all, you'll die!
+
+### Spell Points
+
+Sword and sorcery fantasy is a popular genre for role-playing games. So where's the sorcery? (For the sword, see [Combat](#combat) below.) Each character starts with a number of spell points equal to their creativity score. Characters can use spell points to create magical effects, described in [Spellcasting](#spellcasting) below.
+
+## Playing the Game
+
+You have your character in front of you and your friends at your side. It's time to get into it!
+
+### Ability Checks
+
+During a game, your character might face challenges that can't be resolved through role-play alone. How will you know if your character is strong enough to break down a door? Or perceptive enough to spot the pickpocket that just robbed you? In these situations you'll make an ability check with the relevant statistic to see if you succeed.
+
+First, the game master sets a threshold for the check. Then, you roll a 12-sided die and add your relevant statistic to the result. Compare that result to the threshold - if it's equal or higher, you succeed! You can also apply your skills to an ability check. If one of your skills is relevant to the check, you can roll the die twice and choose which result you want to use (usually the higher one). If more than one of your skills is relevant, you can still only roll the die twice. Sorry, no overlapping skills!
