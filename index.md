@@ -14,7 +14,7 @@ Like many other role-playing game frameworks, SimpleDungeon games are played at 
 
 ## Creating a Character
 
-Creating a character, whether it's a player character's avatar or a game master's villain, is as easy as anything else. The first and most important step is to define the character's motives, personality, and background. These decisions will inform the rest of the character as well as how you role-play them in a game. Here are some helpful questions you can ask yourself when creating a character:
+Creating a character, whether it's a player character's avatar or a game master's villain, is as easy as anything else. The first and most important step is to define the character's personality, motives, and background. These decisions will inform the rest of the character as well as how you role-play them in a game. Here are some helpful questions you can ask yourself when creating a character:
 
 - What does your character want? Are they seeking fame and fortune? Or to fulfill a promise to a lost loved one?
 - How does your character live? What do they do every day?
