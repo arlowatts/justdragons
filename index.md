@@ -6,7 +6,7 @@ Role-Play First is a minimal role-playing game framework, designed for players w
 
 ## Overview
 
-RPF is best played at a tabletop with three or more players. One of the players is the **dealer**. The **dealer** is responsible for introducing the setting and telling the other players what happens in the game world. The other players each role-play an avatar and narrate their actions as they explore the setting and interact with non-player characters.
+RPF is best played at a tabletop with three or more players. One of the players is the **dealer**. The dealer is responsible for introducing the setting and telling the other players what happens in the game world. The other players each role-play an avatar and narrate their actions as they explore the setting and interact with non-player characters.
 
 ## Creating a Character
 
@@ -26,7 +26,7 @@ Strong answers to these questions will keep your character grounded throughout t
 
 ### Skills
 
-Each character can have up to five **skills**. A **skill** is a verb describing something your character is good at or has practiced for a long time. Each of your skills should be related to a specific event or period of time in your character's backstory, and will inform the way you role-play that character during the game. For example, a character might have the "boating" skill if they lived near a lake, or the "digging" skill if they worked as an apprentice to an archaeologist.
+Each character can have up to five **skills**. A skill is a verb describing something your character is good at or has practiced for a long time. Each of your skills should be related to a specific event or period of time in your character's backstory, and will inform the way you role-play that character during the game. For example, a character might have the "boating" skill if they lived near a lake, or the "digging" skill if they worked as an apprentice to an archaeologist.
 
 Make sure you know which backstory elements are associated with each skill, as this will inform how you can apply the skill during the game. Two characters could both have the "climbing" skill, while one climbs cliffs and the other climbs trees. When you want to apply one of your skills, consider how your character's personal experience enables what you want to do.
 
