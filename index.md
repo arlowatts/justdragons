@@ -55,4 +55,4 @@ If the threshold of the check depends on another character, then the ability che
 
 ### Initiative
 
-If multiple characters all want to act at the same time, then each character rolls a die and is assigned a turn in the turn order based on their result. The character with the highest initiative roll act first. After they have taken an action, the turn passes to the next character in the turn order. If a group of characters all want to act together, then they only roll one die for the whole group and take their turns together.
+If multiple characters all want to act at the same time, then each character rolls an 8-sided die and is assigned a turn in the turn order based on their result. Break ties recursively. The character with the highest initiative roll acts first. After they have taken an action, the turn passes to the next character in the turn order. If a group of characters all want to act together, then they only roll one die for the whole group and take their turns together.
