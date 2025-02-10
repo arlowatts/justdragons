@@ -1,12 +1,12 @@
 ---
-title: Welcome to Role-Play First!
+title: Welcome to Just Dragons!
 ---
 
-Role-Play First is a minimal role-playing game framework, designed for players who want to put character first and game mechanics second. With a few friends and a good dealer, RPF can provide a smooth and natural role-playing experience unencumbered by complex rules.
+Just Dragons is a minimal role-playing game framework, designed for players who want to put character first and game mechanics second. With a few friends and a good dealer, Just Dragons can provide a smooth and natural role-playing experience unencumbered by complex rules.
 
 ## Overview
 
-RPF is best played at a tabletop with three or more players. One of the players is the **dealer**. The dealer is responsible for introducing the setting and telling the other players what happens in the game world. The other players each role-play an avatar and narrate their actions as they explore the setting and interact with non-player characters.
+Just Dragons is best played at a tabletop with three or more players. One of the players is the **dealer**. The dealer is responsible for introducing the setting and telling the other players what happens in the game world. The other players each role-play an in-game character and narrate their actions as they explore the setting and interact with non-player characters.
 
 ## Creating a Character
 
@@ -55,4 +55,4 @@ If the threshold of the check depends on another character, then the ability che
 
 ### Initiative
 
-If multiple characters all want to act at the same time, then each character rolls an 8-sided die and is assigned a turn in the turn order based on their result. Break ties recursively. The character with the highest initiative roll acts first. After they have taken an action, the turn passes to the next character in the turn order. If a group of characters all want to act together, then they only roll one die for the whole group and take their turns together.
+If multiple characters all want to act at the same time, then each character rolls an 8-sided die and is assigned a turn in the turn order based on their result. Break ties randomly. The character with the highest initiative roll acts first. After they have taken an action, the turn passes to the next character in the turn order. If a group of characters all want to act together, then they only make one initiative roll for the whole group and take their turns together.
