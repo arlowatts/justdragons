@@ -41,6 +41,10 @@ A character's physical attributes are quantified as **statistics**. Each charact
 
 To set your character's statistics, assign each one a number between 1 and 6 so that they all add up to 8. Each time your character is injured during the game, your stamina statistic decreases permanently by one point. When it reaches 0, you die.
 
+### Classes
+
+Your dealer may give you the option to choose a **class**, which grants special abilities. Ask you dealer which classes are available for your game.
+
 ## Playing the Game
 
 ### Ability and Contest Checks
