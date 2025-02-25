@@ -53,7 +53,7 @@ During a game, your character might wish to take an action that can't be resolve
 
 To make an ability check, the dealer first sets a threshold. They may or may not tell you what it is. Then, you roll an 8-sided die. If your action is directly related to one of your statistics, add that statistic to the roll. Then, if the result is equal to or higher than the threshold, you succeed in your action. Otherwise, you fail.
 
-You can also apply your skills to an ability check. If one of your skills is relevant to your action, you can roll the die twice and take the highest result. Skills can stack&emdash;if two or more of your skills apply to an ability check, you can roll the die that many additional times and choose the highest result.
+You can also apply your skills to an ability check. If one of your skills is relevant to your action, you can roll the die twice and take the highest result. Skills can stack&mdash;if two or more of your skills apply to an ability check, you can roll the die that many additional times and choose the highest result.
 
 If the threshold of the check depends on another character, then the ability check becomes a **contest check**. In a contest check, each character in the contest makes an ability check. Then, instead of comparing the results to a threshold, the character with the highest result succeeds and the other character fails. In the case of a tie, the winner is chosen randomly by flipping a coin. The contesting characters do not necessarily need to use the same statistic for the check.
 
