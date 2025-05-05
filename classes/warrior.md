@@ -12,7 +12,7 @@ You are immune to intimidation and hypnosis.
 
 ### Brute Force
 
-Once per day, you can destroy any nonmagical object you can hold in two hands.
+Once per day, you can destroy any object you can hold in two hands.
 
 ### Intimidation Tactics
 
