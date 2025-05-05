@@ -12,16 +12,16 @@ Just Dragons is best played at a tabletop with three or more players. One of the
 
 The first and most important step to creating a character is defining their personality, motives, and background. These decisions will inform the rest of the character as well as how you role-play them in a game. Here are some helpful questions you can ask yourself when creating a character:
 
-0. How does your character behave in social situations? Do they act differently around different people?
-1. What does your character want? What are their priorities?
-2. How does your character live? What do they do every day?
-3. How has your character's life and personality changed over time? What's their background, and how did that shape who they are now?
-4. What is your character's physicality, and how is it related to their personality?
-5. What material possessions does your character have? Where do they keep them?
-6. Does your character have any friends or relations? How have they influenced your character's ideals?
-7. Who has your character influenced and inspired? Are they known and recognized by strangers?
-8. What is your character's culture, and how has it influenced their beliefs and way of life?
-9. Is your character part of an organization or society? Does your character agree with their purpose and practices?
+1. How does your character behave in social situations? Do they act differently around different people?
+2. What does your character want? What are their priorities?
+3. How does your character live? What do they do every day?
+4. How has your character's life and personality changed over time? What's their background, and how did that shape who they are now?
+5. What is your character's physicality, and how is it related to their personality?
+6. What material possessions does your character have? Where do they keep them?
+7. Does your character have any friends or relations? How have they influenced your character's ideals?
+8. Who has your character influenced and inspired? Are they known and recognized by strangers?
+9. What is your character's culture, and how has it influenced their beliefs and way of life?
+10. Is your character part of an organization or society? Does your character agree with their purpose and practices?
 
 Strong answers to these questions will keep your character grounded throughout the game and will make it easier for you to improvise in unexpected situations.
 
