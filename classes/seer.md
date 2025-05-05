@@ -8,7 +8,7 @@ Seers can divine the future and plan accordingly, granting confidence to themsel
 
 ### Truth Sense
 
-For every 1 minute you spend talking to someone, you can determine whether someone is lying about a specific factual statement.
+For every 1 minute you spend talking to someone, you can choose a factual statement they made in the last minute and determine if it was a lie.
 
 ### Future Sight
 
