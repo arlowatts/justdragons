@@ -16,4 +16,4 @@ You never lose your way underground, and you can always trace your steps back to
 
 ### Stoneshaping
 
-You can mold solid rock with your bare hands as though it were soft clay. The rock remains solid to everyone else, even while you are molding it.
+You can mold solid rock with your bare hands as though it were soft clay. When you stop molding it, it becomes solid again.
