@@ -9,7 +9,7 @@ abilities:
 
 - title: Brute Force
   content:
-    'Once per day, you can destry any object you can hold in two hands.'
+    'Once per day, you can destroy any object you can hold in two hands.'
 
 - title: Intimidation Tactics
   content:
